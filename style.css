@@ -1,0 +1,16 @@
+.btn1{
+width: 45px;
+padding: 5px 10px;
+margin: 4px 4px;
+background-color: green;
+color: white;
+border-radius: 8px;
+}
+img{
+	height: 150px;
+	width: 200px;
+}
+input{
+	border-radius: 8px;
+	border-color: green;
+}
